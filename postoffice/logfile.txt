@@ -1,0 +1,58 @@
+окт 30, 2019 4:19:37 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+окт 30, 2019 4:59:43 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+окт 30, 2019 5:00:00 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:00:00 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick1 подключился
+окт 30, 2019 5:00:24 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:00:24 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick2 подключился
+окт 30, 2019 5:01:38 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:07:14 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick4 подключился
+окт 30, 2019 5:09:12 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick4 покинул чат
+окт 30, 2019 5:09:14 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick1 покинул чат
+окт 30, 2019 5:09:16 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick2 покинул чат
+окт 30, 2019 5:13:01 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+окт 30, 2019 5:13:21 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:13:21 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick1 подключился
+окт 30, 2019 5:13:25 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick1 покинул чат
+окт 30, 2019 5:41:12 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+окт 30, 2019 5:41:28 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:41:28 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick1 подключился
+окт 30, 2019 5:42:03 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 5:42:03 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick3 подключился
+окт 30, 2019 5:44:22 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick1 покинул чат
+окт 30, 2019 5:44:23 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick3 покинул чат
+окт 30, 2019 7:20:51 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Сервер запущен. Ожидаем клиентов...
+окт 30, 2019 7:21:17 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 7:21:17 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick1 подключился
+окт 30, 2019 7:21:54 PM ru.kiselev.igor.server.MainServer <init>
+INFO: Канал к клиенту установлен. Этап авторизации клиента.
+окт 30, 2019 7:21:54 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Клиент: nick2 подключился
+окт 30, 2019 7:23:19 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick2 покинул чат
+окт 30, 2019 7:23:20 PM ru.kiselev.igor.server.ClientHandler lambda$new$0
+INFO: Пользователь nick1 покинул чат

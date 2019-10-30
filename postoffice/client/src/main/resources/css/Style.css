@@ -1,0 +1,126 @@
+.root {
+    -fx-background-image: url("background.jpg");}
+
+
+#btnSend {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnSend:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btnAuth {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnAuth:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btnReg {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnReg:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#btn3 {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btn3:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btn4 {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btn4:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#welcome1 {
+    -fx-font-size: 28px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #61a2b1;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+
+}
+#welcomeToReg {
+    -fx-font-size: 22px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #61a2b1;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#actiontargetSecond {
+
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#actiontargetFirst {
+
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#actiontarget {
+
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#textField {
+    -fx-background-color: #cccdd3;
+    -fx-text-fill: BLACK;
+}
+
+#question {
+    -fx-border-width: bold;
+}
+
+#textArea {
+
+    -fx-background-insets: 40;
+    -fx-border-width: 5;
+    -fx-border-color:#2A5058;
+    -fx-padding: 40;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-font-size: 14px;
+}
+#textArea.content{
+    -fx-background-image: url("background.jpg");
+}
+
+#personalTextArea {
+
+    -fx-border-color:#2A5058;
+
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-font-size: 14px;
+}
+
+#personalTextArea.content{
+    -fx-background-image: url("background.jpg");
+}

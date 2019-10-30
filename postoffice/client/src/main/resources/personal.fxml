@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+
+
+<VBox fx:controller="ru.kiselev.igor.client.PersonalController"
+      xmlns:fx = "http://javafx.com/fxml" alignment="CENTER">
+    <stylesheets><URL value="@/css/Style.css" /> </stylesheets>
+
+    <TextArea fx:id="personalTextArea" VBox.vgrow="ALWAYS"/>
+    <Button text = "Send Message" fx:id="btn3" onAction="#btnClick"/>
+
+</VBox>
