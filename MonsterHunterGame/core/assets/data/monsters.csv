@@ -1,0 +1,3 @@
+______title________,__base_attack___,___base_defense___,___base_healthMax__,___attack_perLevel__,__defense_perLevel__,__health_perLevel__,__speed__
+Tiger              ,1               ,1                 ,10                 ,1                   ,1                   ,5                  ,120.0
+Bomber             ,2               ,3                 ,20                 ,1                   ,1                   ,10                 ,60.0
