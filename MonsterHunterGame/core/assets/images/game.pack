@@ -1,0 +1,173 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero
+  rotate: false
+  xy: 2, 2
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+Bomber
+  rotate: false
+  xy: 644, 2
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+Tiger
+  rotate: false
+  xy: 1286, 2
+  size: 240, 320
+  orig: 240, 320
+  offset: 0, 0
+  index: -1
+powerUpsNew
+  rotate: false
+  xy: 1528, 2
+  size: 60, 240
+  orig: 60, 240
+  offset: 0, 0
+  index: -1
+powerUps
+  rotate: false
+  xy: 2, 324
+  size: 60, 180
+  orig: 60, 180
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 64, 324
+  size: 400, 120
+  orig: 400, 120
+  offset: 0, 0
+  index: -1
+wanim
+  rotate: false
+  xy: 644, 324
+  size: 360, 120
+  orig: 360, 120
+  offset: 0, 0
+  index: -1
+Wall
+  rotate: false
+  xy: 466, 324
+  size: 79, 120
+  orig: 79, 120
+  offset: 0, 0
+  index: -1
+Wallother
+  rotate: false
+  xy: 547, 324
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+MagicPortalTwo
+  rotate: false
+  xy: 547, 406
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Grass
+  rotate: false
+  xy: 1006, 324
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Grass2
+  rotate: false
+  xy: 1006, 406
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+redShield
+  rotate: false
+  xy: 64, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+PotionBottle
+  rotate: false
+  xy: 126, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+mark
+  rotate: false
+  xy: 188, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+longSword
+  rotate: false
+  xy: 250, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+coins
+  rotate: false
+  xy: 312, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 374, 446
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guiIconExp
+  rotate: false
+  xy: 466, 446
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+guiBarHp
+  rotate: false
+  xy: 644, 446
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+guiBarExp
+  rotate: false
+  xy: 1286, 324
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+guiIconHp
+  rotate: false
+  xy: 846, 446
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+smButton
+  rotate: false
+  xy: 1088, 324
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+monsterHealth
+  rotate: false
+  xy: 547, 488
+  size: 60, 8
+  orig: 60, 8
+  offset: 0, 0
+  index: -1
