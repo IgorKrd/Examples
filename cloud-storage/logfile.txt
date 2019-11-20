@@ -1,0 +1,408 @@
+ноя 06, 2019 3:06:36 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 3:06:52 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:07:22 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 подключился
+ноя 06, 2019 3:08:02 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:3; login3 подключился
+ноя 06, 2019 3:08:20 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:3; login3 отключился.
+ноя 06, 2019 3:08:23 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 отключился.
+ноя 06, 2019 3:08:26 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 3:46:15 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 3:47:50 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 3:49:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 3:49:37 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:49:44 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 3:50:09 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 3:50:49 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:50:51 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 3:51:54 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 3:53:10 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:53:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 3:55:13 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:55:16 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 3:55:56 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 3:55:58 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 5:20:36 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 5:25:56 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 6:58:58 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 7:02:36 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 7:02:39 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 7:03:15 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 7:55:07 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 7:55:23 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 06, 2019 7:55:45 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 7:55:50 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 06, 2019 7:57:29 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 06, 2019 8:08:30 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 9:18:32 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 06, 2019 9:19:01 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 08, 2019 5:05:25 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 08, 2019 5:05:46 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 08, 2019 5:10:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 08, 2019 9:23:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 8:29:54 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 8:30:39 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 8:46:57 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 9:09:02 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 9:15:48 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 9:41:05 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 9:45:45 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 9:47:15 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 9:49:16 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 9:50:17 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 12:40:32 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 12:55:58 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:00:18 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:02:27 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:03:53 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:05:59 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:07:27 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:09:14 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:14:32 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:18:14 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:19:04 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login7 в БД клиентов.
+ноя 09, 2019 1:19:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:27:01 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:28:05 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:30:52 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:31:52 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login6 в БД клиентов.
+ноя 09, 2019 1:32:10 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:33:20 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login8 в БД клиентов.
+ноя 09, 2019 1:33:28 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:40:37 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:41:26 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:41:28 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 1:58:56 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 1:59:13 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 1:59:59 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 2:01:04 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 2:22:03 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login4 в БД клиентов.
+ноя 09, 2019 2:22:42 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:9; login4 подключился
+ноя 09, 2019 2:22:59 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:9; login4 отключился.
+ноя 09, 2019 2:50:16 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login5 в БД клиентов.
+ноя 09, 2019 2:53:36 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 2:54:06 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login3 в БД клиентов.
+ноя 09, 2019 2:56:07 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 2:57:45 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login6 в БД клиентов.
+ноя 09, 2019 2:59:38 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login7 в БД клиентов.
+ноя 09, 2019 3:01:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 3:01:59 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login8 в БД клиентов.
+ноя 09, 2019 3:13:54 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 3:14:25 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login9 в БД клиентов.
+ноя 09, 2019 3:14:34 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:15; login9 подключился
+ноя 09, 2019 3:14:46 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:15; login9 отключился.
+ноя 09, 2019 3:15:42 PM ru.kiselev.igor.cloud.server.DbService tryToCreateNewUsers
+INFO: Добавлен новый пользователь: login10 в БД клиентов.
+ноя 09, 2019 3:15:49 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:16; login10 подключился
+ноя 09, 2019 3:22:20 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 3:29:45 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 09, 2019 3:29:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 09, 2019 3:39:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 3:41:20 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 3:45:49 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 09, 2019 4:10:38 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 4:16:00 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 09, 2019 4:19:23 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 13, 2019 11:33:59 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 13, 2019 11:34:28 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 13, 2019 12:01:48 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 13, 2019 12:02:17 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 13, 2019 12:03:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 14, 2019 4:49:55 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 14, 2019 4:50:28 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 14, 2019 4:51:59 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 14, 2019 4:58:38 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 14, 2019 4:58:52 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 14, 2019 5:00:06 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 14, 2019 5:30:35 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 14, 2019 6:00:13 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 15, 2019 3:27:58 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 15, 2019 3:28:20 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 3:32:07 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 15, 2019 3:33:29 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 3:44:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 3:46:21 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 3:52:45 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 3:55:54 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 4:01:22 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 4:06:27 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 4:55:26 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 4:58:54 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 4:59:34 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 15, 2019 4:59:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 5:07:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 15, 2019 9:53:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 15, 2019 10:35:33 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 15, 2019 10:35:47 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; LOGIN1 подключился
+ноя 15, 2019 10:43:51 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; LOGIN1 отключился.
+ноя 16, 2019 11:24:42 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 16, 2019 11:24:56 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 11:52:06 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 11:54:18 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 11:54:32 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:20:29 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 16, 2019 12:20:45 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:24:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:26:28 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:33:39 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:null; null отключился.
+ноя 16, 2019 12:33:47 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 16, 2019 12:34:05 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:35:26 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 16, 2019 12:35:36 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:38:05 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 12:50:17 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 16, 2019 12:51:42 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 12:56:36 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 подключился
+ноя 16, 2019 12:57:29 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 12:57:30 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 отключился.
+ноя 16, 2019 1:05:22 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 1:05:25 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 1:08:39 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 1:08:43 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 1:14:26 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 1:14:29 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 1:25:06 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 1:25:09 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 16, 2019 1:30:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 16, 2019 1:30:43 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 10:27:16 AM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 17, 2019 10:27:39 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 10:30:16 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 подключился
+ноя 17, 2019 10:30:26 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 отключился.
+ноя 17, 2019 10:30:27 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 11:49:53 AM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 12:08:57 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 12:12:35 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:00:50 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:03:13 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:03:39 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:04:07 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:04:56 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:08:40 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:10:12 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:13:44 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:14:30 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:15:58 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:16:17 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:17:14 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:17:24 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:18:15 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:18:23 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:19:06 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:20:33 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:21:29 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:49:40 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 1:53:02 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 1:58:52 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 6:46:49 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 17, 2019 6:47:06 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 6:48:45 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 7:25:02 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 17, 2019 7:25:19 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 7:27:00 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
+ноя 17, 2019 7:34:23 PM ru.kiselev.igor.cloud.server.MainServer run
+INFO: Сервер запущен. Ожидаем клиентов...
+ноя 17, 2019 7:34:38 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 подключился
+ноя 17, 2019 7:34:56 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 подключился
+ноя 17, 2019 7:35:44 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:2; login2 отключился.
+ноя 17, 2019 7:35:46 PM ru.kiselev.igor.cloud.server.ClientAuthHandler channelRead
+INFO: Клиент ID:1; login1 отключился.
