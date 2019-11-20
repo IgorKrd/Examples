@@ -1,0 +1,165 @@
+.root {
+    -fx-background-image: url("background.jpg");}
+
+#btnUpLoad {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnUpLoad:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#btnDownLoad {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnDownLoad:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btnAuth {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnAuth:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btnReg {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnReg:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#createNewUserButton {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#createNewUserButton:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#ValidatePassAndLoginButton {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#ValidatePassAndLoginButton:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#welcome1 {
+    -fx-font-size: 28px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #61a2b1;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+
+}
+#welcomeToReg {
+    -fx-font-size: 22px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #61a2b1;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+#actiontargetFirst {
+
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+
+#actiontarget {
+
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+}
+#btnDeleteC {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnDeleteC:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#btnDeleteS {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnDeleteS:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#btnOpenC {
+    -fx-text-fill: white;
+    -fx-front-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+#btnOpenC:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+#question {
+    -fx-border-width: bold;
+}
+
+#clientFilesList {
+
+    -fx-background-insets: 5;
+    -fx-border-width: 3;
+    -fx-border-color:#2A5058;
+
+    -fx-background-color: #cccdd3;
+
+    -fx-padding: 3;
+
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-font-size: 14px;
+}
+
+#clientFilesList.content{
+    -fx-background-image: url("background.jpg");
+}
+
+#serverFilesList {
+
+    -fx-background-insets: 5;
+    -fx-border-width: 3;
+    -fx-border-color:#2A5058;
+
+    -fx-background-color: #cccdd3;
+    -fx-padding: 3;
+
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-font-size: 14px;
+}
+
+#serverFilesList.content{
+    -fx-background-image: url("background.jpg");
+}

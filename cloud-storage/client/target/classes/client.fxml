@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.control.Label?>
+<?scenebuilder-stylesheet /css/Style.css?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<VBox alignment="TOP_CENTER" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="ru.kiselev.igor.cloud.client.Controller">
+    <stylesheets>
+        <URL value="@/css/Style.css"/>
+    </stylesheets>
+    <HBox>
+        <Text fx:id="welcome1" text="Welcome to 'Post Office-Cloud'">
+            <HBox.margin>
+                <Insets left="5.0"/>
+            </HBox.margin>
+        </Text>
+    </HBox>
+
+    <VBox fx:id="upperPanel">
+
+        <HBox>
+            <TextField fx:id="loginField" prefHeight="31.0" prefWidth="220.0" promptText="Login" HBox.hgrow="ALWAYS">
+                <HBox.margin>
+                    <Insets left="5.0"/>
+                </HBox.margin>
+            </TextField>
+
+            <PasswordField fx:id="passwordField" onAction="#tryToAuth" prefHeight="31.0" prefWidth="251.0"
+                           promptText="Password">
+                <HBox.margin>
+                    <Insets left="5.0"/>
+                </HBox.margin>
+            </PasswordField>
+
+            <Button fx:id="btnAuth" onAction="#tryToAuth" prefHeight="31.0" prefWidth="91.0" text="Sign in">
+                <HBox.margin>
+                    <Insets left="5.0" right="5.0"/>
+                </HBox.margin>
+
+            </Button>
+
+            <VBox.margin>
+                <Insets bottom="20.0"/>
+            </VBox.margin>
+        </HBox>
+
+        <VBox.margin>
+            <Insets top="20.0"/>
+        </VBox.margin>
+
+        <Text fx:id="question" text="Is new User? You can use the Cloud storage after registration!">
+            <VBox.margin>
+                <Insets left="10.0" bottom="10.0"/>
+            </VBox.margin>
+        </Text>
+
+
+        <Button fx:id="btnReg" onAction="#tryToReg" prefHeight="31.0" prefWidth="91.0" text="Reg Now">
+            <VBox.margin>
+                <Insets left="5.0"/>
+            </VBox.margin>
+        </Button>
+
+    </VBox>
+    <HBox fx:id="bottomPanel" managed="false" visible="false" VBox.vgrow="ALWAYS">
+        <VBox HBox.hgrow="ALWAYS">
+
+            <VBox.margin>
+                <Insets top="10.0"/>
+            </VBox.margin>
+
+            <Label text="   List of Files in the storage on the Client side: ">
+                <VBox.margin>
+                    <Insets top ="10.0"/>
+                </VBox.margin>
+
+                <VBox.margin>
+                <Insets bottom="10.0"/>
+                </VBox.margin>
+
+            </Label>
+
+            <ListView fx:id="clientFilesList" prefHeight="380.0" prefWidth="520.0" VBox.vgrow="ALWAYS">
+
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+            </ListView>
+
+            <HBox>
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+
+                <HBox.margin>
+                    <Insets top="10.0"/>
+                </HBox.margin>
+
+                <Button fx:id="btnOpenC" onAction="#pressOpenFileClientSide" prefHeight="25.0" prefWidth="160.0"
+                        text="Open (Client side)">
+                    <HBox.margin>
+                        <Insets left="5.0"/>
+                    </HBox.margin>
+                </Button>
+
+                <Button fx:id="btnDeleteC" onAction="#pressDeleteFileOnClientSide" prefHeight="25.0" prefWidth="160.0"
+                        text="Delete (Client side)">
+                    <HBox.margin>
+                        <Insets left="5.0"/>
+                    </HBox.margin>
+                </Button>
+
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+
+            </HBox>
+
+            <Label text="   List of Files in the storage on the Server side: ">
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+            </Label>
+
+            <ListView fx:id="serverFilesList" prefHeight="380.0" prefWidth="520.0" VBox.vgrow="ALWAYS">
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+            </ListView>
+
+
+            <HBox>
+
+                <Button fx:id="btnDeleteS" onAction="#pressDeleteFileOnServerSide" prefHeight="25.0" prefWidth="160.0"
+                        text="Delete (Server side)">
+                    <HBox.margin>
+                        <Insets left="5.0"/>
+                    </HBox.margin>
+                </Button>
+
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+
+            </HBox>
+
+            <Label text="   Please choose the file that you need and your action:" >
+                <VBox.margin>
+                    <Insets top ="10.0"/>
+                </VBox.margin>
+
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+
+            </Label>
+
+            <HBox>
+                <Button fx:id="btnUpLoad" onAction="#pressUpLoadButton" prefHeight="25.0" prefWidth="100.0"
+                        text="Upload">
+                    <HBox.margin>
+                        <Insets left="5.0"/>
+                    </HBox.margin>
+                </Button>
+
+                <Button fx:id="btnDownLoad" onAction="#pressDownLoadButton" prefHeight="25.0" prefWidth="100.0"
+                        text="Download">
+                    <HBox.margin>
+                        <Insets left="5.0"/>
+                    </HBox.margin>
+                </Button>
+
+                <VBox.margin>
+                    <Insets bottom="10.0"/>
+                </VBox.margin>
+
+            </HBox>
+
+        </VBox>
+    </HBox>
+</VBox>
