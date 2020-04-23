@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb5ad00-abcd-4c47-b762-24a5817fee6b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +25,9 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Clinic" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -42,28 +44,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1QN3GwB6qzbAWwCLfK79wGk7xYE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.14965986" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -105,10 +102,117 @@
       <workItem from="1572429598683" duration="2167000" />
       <workItem from="1572440109420" duration="445000" />
       <workItem from="1572443092395" duration="520000" />
+      <workItem from="1581676758636" duration="14081000" />
+      <workItem from="1583328621537" duration="589000" />
+      <workItem from="1583329816095" duration="24000" />
+      <workItem from="1587356745479" duration="640000" />
+      <workItem from="1587357429885" duration="1172000" />
+      <workItem from="1587358641456" duration="167000" />
+      <workItem from="1587358849467" duration="277000" />
+      <workItem from="1587359157161" duration="15064000" />
+      <workItem from="1587533335090" duration="25522000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1587558010567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587558010567" />
+    <state x="459" y="20" key="FileChooserDialogImpl" timestamp="1587382270560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1035" y="14" key="FileChooserDialogImpl/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587359591226" />
+    <state x="459" y="20" key="FileChooserDialogImpl/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587382270560" />
+    <state width="1045" height="170" key="GridCell.Tab.0.bottom" timestamp="1587615308244">
+      <screen x="-1360" y="0" width="1088" height="574" />
+    </state>
+    <state width="1045" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587615308244" />
+    <state width="1493" height="170" key="GridCell.Tab.0.bottom/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587614865412" />
+    <state width="1045" height="170" key="GridCell.Tab.0.center" timestamp="1587615308244">
+      <screen x="-1360" y="0" width="1088" height="574" />
+    </state>
+    <state width="1045" height="170" key="GridCell.Tab.0.center/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587615308244" />
+    <state width="1493" height="170" key="GridCell.Tab.0.center/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587614865411" />
+    <state width="1045" height="170" key="GridCell.Tab.0.left" timestamp="1587615308244">
+      <screen x="-1360" y="0" width="1088" height="574" />
+    </state>
+    <state width="1045" height="170" key="GridCell.Tab.0.left/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587615308244" />
+    <state width="1493" height="170" key="GridCell.Tab.0.left/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587614865411" />
+    <state width="1045" height="170" key="GridCell.Tab.0.right" timestamp="1587615308244">
+      <screen x="-1360" y="0" width="1088" height="574" />
+    </state>
+    <state width="1045" height="170" key="GridCell.Tab.0.right/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587615308244" />
+    <state width="1493" height="170" key="GridCell.Tab.0.right/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587614865411" />
+    <state x="71" y="0" key="SettingsEditor" timestamp="1587379958855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1310" y="0" key="SettingsEditor/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587359127889" />
+    <state x="71" y="0" key="SettingsEditor/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587379958855" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587582310811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587582310811" />
+    <state x="-1119" y="123" key="com.intellij.ide.util.TipDialog" timestamp="1587359013438">
+      <screen x="-1360" y="0" width="1088" height="574" />
+    </state>
+    <state x="-1119" y="123" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1360.0.1088.574@-1360.0.1088.574" timestamp="1587359013438" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587376921607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1360.0.1088.574@0.0.1536.824" timestamp="1587376921607" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>
